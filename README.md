@@ -8,7 +8,7 @@
 ## Installation:
 **1.Clone the Repo**
 ```sh
-git clone https://github.com/shyam999/Hot-Food.git
+git clone https://github.com/maruf119459/Hot-Food-Restaurant.git
 ```
 **2.Setup pipenv & Install Requirements**
 ```sh
@@ -30,7 +30,4 @@ python manage.py migrate
 ```sh
 python manage.py runserver
 ```
-# Contributors
-Contributions are welcome, and they are greatly appreciated! Every little bit helps, and credit will always be given.<br/>
 
-Please star the repo and feel free to make pull requests.
